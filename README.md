@@ -12,5 +12,3 @@ Web Structure:
 - Server: Ruby
 - Rails: Databse
 - HTML: Bootstrap
-
-
